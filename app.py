@@ -47,5 +47,5 @@ manager = autogen.GroupChatManager(
 
 user_proxy.initiate_chat(
     manager, 
-    message="Tell me a joke?",
+    message="Tell me a joke",
 )
